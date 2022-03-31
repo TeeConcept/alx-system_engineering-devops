@@ -1,2 +1,4 @@
 #!/bin/bash 
-echo /root/97979594939291929393949596979896/alx-system_engineering-devops/0x00-shell_basics
+echo 0-current_working_directory
+echo 1-listit
+echo README.md
