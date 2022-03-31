@@ -1,1 +1,1 @@
-where am I readme
+about shell usage echo ALX
