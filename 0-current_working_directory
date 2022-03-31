@@ -1,2 +1,6 @@
 #!/bin/bash 
+<<<<<<< HEAD
 pwd
+=======
+cd /root
+>>>>>>> 8314cf79532bb01b38a0edf23afe1e4b892d30b3
